@@ -1,0 +1,24 @@
+.btn-space {
+    margin-left: 20px;
+}
+
+.custom-container {
+  background-color: #668a94 !important;
+}
+
+ .hidden {
+   display:none;
+ }
+
+ .search-box {
+   width: 75px;
+   border: 1px solid rgba(0,0,0,.15);
+   -webkit-transition: all .5s ease;
+   -moz-transition: all .5s ease;
+   transition: all .5s ease;
+}
+.search-box-focus {
+   width: 200px;
+}
+
+.full {width: 100%}
