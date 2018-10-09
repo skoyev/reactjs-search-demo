@@ -27,8 +27,8 @@ npm start
 
 Open [http://localhost:3000](http://localhost:3000)<br>
 
-## Demo (Live Interactive)
-[https://reactjs-tech-task.herokuapp.com/](https://reactjs-tech-task.herokuapp.com/)
+## Search- Demo (Live Interactive)
+http://react-search-demo.nextpathtechnology.com
 
 ## Technologies
 * ReactJS
