@@ -36,5 +36,5 @@ Open [http://localhost:3000](http://localhost:3000)<br>
 * React-Router
 * Bootstrap
 * redux-form
-* Babel
+* Webpack
 * React Boostrap Table
