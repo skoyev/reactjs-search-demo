@@ -31,8 +31,9 @@ Open [http://localhost:3000](http://localhost:3000)<br>
 http://react-search-demo.nextpathtechnology.com
 
 ## Technologies
-* ReactJS
+* React
 * Redux
+* AntDesign
 * React-Router
 * Bootstrap
 * redux-form
