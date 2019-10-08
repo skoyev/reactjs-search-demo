@@ -1,6 +1,6 @@
 # reactjs-search-demo
 
-Created demo React JS Application with 2 tabs: Home, Departments.
+React/Redux/Ant Design Application with 2 tabs: Home, Departments.
 
 The Department page provides next futures:
 
