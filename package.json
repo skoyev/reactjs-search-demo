@@ -24,7 +24,8 @@
     "redux-form": "^6.8.0",
     "redux-thunk": "^2.2.0",
     "tether": "^1.4.0",
-    "toastr": "^2.1.2"
+    "toastr": "^2.1.2",
+    "antd": "^3.23.6"
   },
   "devDependencies": {
     "coveralls": "^2.13.1",
